@@ -1,0 +1,1 @@
+O Git é uma ferramenta de versionamento que nos permite atualizar um projeto sem perder suas versões anteriores, dessa forma fazemos commits e, ao encontrar um erro em algum projeto, temos a possibilidade de dar um rollback ou simplesmente visitar um commit mais antigo para ver as alterações.
